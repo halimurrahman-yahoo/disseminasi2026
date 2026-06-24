@@ -1,4 +1,4 @@
-Pertanyaan yang sangat penting karena banyak pengguna WRF-Hydro hanya menjalankan model tanpa memahami **apa yang sebenarnya dihitung oleh WRF-Hydro di setiap time step**.
+**Apa yang sebenarnya komponen WRF-Hydro di setiap time step**.
 
 Pada WRF-Hydro, tiga komponen tersebut sebenarnya berada pada level yang berbeda:
 
@@ -537,7 +537,7 @@ Jika tujuan utama adalah **sediment yield dan sediment delivery**, maka kontribu
 | Peak Runoff        | Sangat besar              |
 | Peak Discharge     | Sangat besar              |
 
-Karena itu, untuk DAS Segara Anakan saya menyarankan konfigurasi:
+Karena itu, untuk DAS Segara Anakan konfigurasi:
 
 ```text
 WRF (1 km)
@@ -559,6 +559,6 @@ Sediment Yield
 Sediment Delivery ke Segara Anakan
 ```
 
-Dengan desain ini Anda bisa mengkuantifikasi jalur lengkap:
+Dengan desain ini bisa dikuantifikasi jalur lengkap:
 
 **ENSO/DMI → hujan → overland flow → debit puncak → erosi → sediment yield → sedimentasi Segara Anakan**, yang sangat relevan dengan topik publikasi tentang sedimentasi dan perubahan lingkungan pesisir yang sedang Anda kerjakan.
