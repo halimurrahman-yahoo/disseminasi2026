@@ -4,7 +4,7 @@
 22 Juni 2026-22 Agustus/Sept(?) 2026
 ### Target: 
 1) Simulasi aliran sungai DAS Segara Anakan saat musim normal, kering/el-Nino, dan basah/La-Nina
-2) [Laporan](https://docs.google.com/presentation/d/1s5W6806NoW0UPRZXMP2TNl38WAAHwr8j6Xl3DBMP6VQ/edit?usp=drive_link)
+2) [Laporan](https://docs.google.com/presentation/d/1s5W6806NoW0UPRZXMP2TNl38WAAHwr8j6Xl3DBMP6VQ/edit?usp=drive_link) [gdrive](https://drive.google.com/drive/folders/1MCMo-H2BROuAecZsJHvZoGnZmBYarIk1?usp=drive_link)
 
 
 ## TOR kegiatan
