@@ -1,7 +1,9 @@
 # KP Tel-U 2026
 
-### Waktu: 22 Juni 2026-22 Agustus/Sept(?) 2026
-### Target: 1) Simulasi aliran sungai DAS Segara Anakan saat musim normal, kering/el-Nino, dan basah/La-Nina
+### Waktu: 
+22 Juni 2026-22 Agustus/Sept(?) 2026
+### Target: 
+1) Simulasi aliran sungai DAS Segara Anakan saat musim normal, kering/el-Nino, dan basah/La-Nina
 
 
 ## TOR kegiatan
