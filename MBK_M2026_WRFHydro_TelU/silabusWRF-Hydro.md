@@ -32,9 +32,9 @@ Peserta memahami posisi preprocessing dalam keseluruhan workflow WRF-Hydro.
 
 ### Materi
 
-* Konsep WRF-Hydro
-* One-way vs Two-way coupling
-* Domain atmosfer dan domain hidrologi
+* [Konsep WRF-Hydro](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/tahapanWRF-Hydro.md)
+* [One-way vs Two-way coupling](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/one_or_two_ways_WRF-Hydro.md)
+* [Domain atmosfer dan domain hidrologi](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/skemaWRFHydro.md)
 * Alur preprocessing
 
 ```
