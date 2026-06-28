@@ -15,7 +15,7 @@
 
 [Jadwal 1 bulan](https://drive.google.com/file/d/1T0EaiNLzA0-pNhmHiuSthI6mAlpJ5zi6/view?usp=drive_link)
 
-[Silabus WRF-Hydro](MBK_M2026_WRFHydro_TelU/silabusWRF-Hydro.md)
+[Silabus WRF-Hydro](silabusWRF-Hydro.md)
 
 
 ### Materi Dasar
