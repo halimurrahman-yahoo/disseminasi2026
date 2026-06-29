@@ -41,10 +41,11 @@ Peserta memahami posisi preprocessing dalam keseluruhan workflow WRF-Hydro.
 DEM
 ```
  ↓
- ```
+```
 River Network
 ```
  ↓
+```
 Flow Direction
  ↓
 Flow Accumulation
@@ -55,12 +56,6 @@ Fulldom_hires.nc
  ↓
 Hydro.exe
 ```
-
-Output
-
-Peserta memahami seluruh data yang akan dibuat.
-
----
 
 ### Modul 2. Dasar-Dasar GIS
 -memahami konsep spasial yang diperlukan dalam WRF-Hydro.
