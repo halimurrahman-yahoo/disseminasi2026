@@ -124,7 +124,7 @@ mampu:
 
 ## Catatan untuk konteks WRF-Hydro di HPC
 
-Bahwa alur **WPS → `real.exe` → `wrf.exe` → WRF-Hydro** di HPC, jadi lanjut, 
+Bahwa alur **WPS → `real.exe` → `wrf.exe` → WRF-Hydro** di HPC, kelompok tahapannya: 
 * **Level 1 – GIS Foundation**: Modul 1–6 (konsep GIS, QGIS, analisis raster dan vektor).
 * **Level 2 – WRF-Hydro Preparation**: Modul 7–14 (persiapan data hidrologi, Python untuk GIS, NetCDF, dan preprocessing WRF-Hydro).
 * **Level 3 – Operational Workflow**: Modul 15–16  simulasi WRF-Hydro di Linux/HPC, sehingga memahami alur lengkap dari data mentah hingga simulasi hidrologi.
