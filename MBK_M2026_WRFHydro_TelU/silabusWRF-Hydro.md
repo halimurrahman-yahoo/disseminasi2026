@@ -99,23 +99,14 @@ Peserta memahami seluruh data yang akan dibuat.
 
 ```
 WPS
-```
 ↓
-```
 real.exe
-```
 ↓
-```
 wrf.exe
-```
 ↓
-```
 WRF-Hydro preprocessing
-```
 ↓
-```
 hydro.exe
-```
 ↓
 Output
 
