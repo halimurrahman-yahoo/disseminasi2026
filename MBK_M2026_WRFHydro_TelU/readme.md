@@ -23,7 +23,7 @@
 2. [Pemodelan Atmosfer](https://drive.google.com/file/d/1GC3PZSd04JZIISoYcjyKG7jZ0d7qTvpH/view?usp=drive_link)
 3. [Docker](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/docker_WPS/catatan_Docker.md)
 4. [Docker WRF-Hydro/WPS Website](https://hub.docker.com/r/wrfhydro/wps)
-5. QGIS 
+5. [GIS dan QGIS](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/GIS/silabus_ringkas.md)
 
 ### Tentang WRF-Hydro
 1. [work flow WRFHydro](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/tahapanWRF-Hydro.md)
