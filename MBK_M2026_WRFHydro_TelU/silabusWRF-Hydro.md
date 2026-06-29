@@ -39,8 +39,11 @@ Peserta memahami posisi preprocessing dalam keseluruhan workflow WRF-Hydro.
 
 ```
 DEM
+```
  ↓
+ ```
 River Network
+```
  ↓
 Flow Direction
  ↓
