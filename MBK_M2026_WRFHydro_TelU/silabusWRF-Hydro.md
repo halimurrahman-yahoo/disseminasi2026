@@ -60,6 +60,12 @@ Hydro.exe
 ### Modul 2. Dasar-Dasar GIS
 -memahami konsep spasial yang diperlukan dalam WRF-Hydro.
 
+
+* [**Hans van der Kwast – Introduction to GIS**](https://www.youtube.com/watch?v=AfKp5mTa3XY)
+
+* [A Gentle Introduction to GIS (QGIS Documentation)](https://docs.qgis.org/3.40/pdf/en/QGIS-3.40-TrainingManual-en.pdf?utm_source=chatgpt.com) ([QGIS][1])
+> Mengapa model hidrologi tidak dapat berjalan tanpa GIS?
+
 ### Modul 3. Dasar QGIS
 -memahami aplikasi GIS seperti:
 
@@ -67,6 +73,9 @@ Hydro.exe
 2. Data (raster, shapefile, Styling, etc.)
 3. Geoprocessing (Clip Raster, Clip Vector, Reproject, Merge Raster, Raster Calculator, etc.)
 4. Export (GeoTIFF, Shapefile, etc.)
+
+[Klas Karlsson, QGIS for Absolute Beginners](https://www.youtube.com/watch?v=nflGhP9_VHg)
+
 
 ### Modul 4. Raster Analysis
 -memahami pengolahan DEM menjadi input hidrologi (DEM, Slope, Raster Calculator, Resampling, etc.)
