@@ -22,15 +22,15 @@ Silabus yang berjenjang dari konsep spasial → QGIS → Python → preprocessin
 
 ---
 
-# Modul 1. Pengantar WRF-Hydro
+### Modul 1. Pengantar WRF-Hydro
 
 Durasi : 2 jam
 
-## Tujuan
+#### Tujuan
 
 Peserta memahami posisi preprocessing dalam keseluruhan workflow WRF-Hydro.
 
-### Materi
+#### Materi
 
 * [Konsep WRF-Hydro](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/tahapanWRF-Hydro.md)
 * [One-way vs Two-way coupling](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/one_or_two_ways_WRF-Hydro.md)
@@ -63,33 +63,12 @@ Peserta memahami seluruh data yang akan dibuat.
 -memahami konsep spasial yang diperlukan dalam WRF-Hydro.
 
 ### Modul 3. Dasar QGIS
--memahami aplikasi GIS 
+-memahami aplikasi GIS seperti:
 
-Interface
-
-* Browser
-* Layer
-* Processing Toolbox
-
-Data
-
-* Membuka raster
-* Membuka shapefile
-* Styling
-
-Geoprocessing
-
-* Clip Raster
-* Clip Vector
-* Reproject
-* Merge Raster
-* Raster Calculator
-
-Export
-
-* GeoTIFF
-* Shapefile
-* GeoPackage
+1. Interface (Browser, Layer, Processing Toolbox, etc.)
+2. Data (raster, shapefile, Styling, etc.)
+3. Geoprocessing (Clip Raster, Clip Vector, Reproject, Merge Raster, Raster Calculator, etc.)
+4. Export (GeoTIFF, Shapefile, etc.)
 
 ### Modul 4. Raster Analysis
 -memahami pengolahan DEM menjadi input hidrologi (DEM, Slope, Raster Calculator, Resampling, etc.)
@@ -100,341 +79,49 @@ Export
 ### Modul 6. Hydrologic GIS
 -memahami pengolahan jaringan sungai (Flow Direction/Accumulation, Catchment, Stream Network, GRASS, etc.)
 
-# Modul 7. Data WRF-Hydro
+### Modul 7. Data WRF-Hydro
+-memahami Input yang diperlukan (DEM, Landuse, Soil, River, Coordinate consistency, etc.) dan memprosesnya 
 
-Durasi : 4 jam
+### Modul 8. Python untuk GIS
+-memahami pengolahan data spatial berbasis Python (NumPy, Pandas, File, List, Dictionary, Variable, etc.)
 
-Materi
+### Modul 9. Python untuk NetCDF
+-mampu mengolah data netcdf (mis. geo_em.d01.nc) (NetCDF, xarray, Dimension, Variable, etc.)
 
-Input yang diperlukan
+### Modul 10. WRF-Hydro GIS Preparation
+-mampu membuat Fulldom_hires.nc (Domain, DEM, River, Regridding, Routing Grid, etc.)
 
-DEM
+### Modul 11. WRF-Hydro Geogrid
+-mampu cek semua file untuk WRF-Hydro (geo_em, Fulldom, Hydro2dtbl, Route_Link, etc.)
 
-Landuse
-
-Soil
-
-River
-
-Lake
-
-Reservoir
-
-Coordinate consistency
-
-Resolution consistency
-
-Projection consistency
-
-Praktik
-
-Validasi data.
-
----
-
-# Modul 8. Dasar Python
-
-Durasi : 8 jam
-
-## Materi
-
-Python
-
-Variable
-
-Loop
-
-Function
-
-List
-
-Dictionary
-
-NumPy
-
-Pandas
-
-File
-
-CSV
-
-GeoJSON
-
-Praktik
-
-Membaca data spasial.
-
----
-
-# Modul 9. Python untuk GIS
-
-Durasi : 10 jam
-
-Library
-
-numpy
-
-pandas
-
-geopandas
-
-rasterio
-
-xarray
-
-shapely
-
-fiona
-
-pyproj
-
-matplotlib
-
-Materi
-
-Read Raster
-
-Write Raster
-
-Read Shapefile
-
-Coordinate Transform
-
-Spatial Join
-
-Mask Raster
-
-Clip Raster
-
-Praktik
-
-Membuat script GIS sederhana.
-
----
-
-# Modul 10. Python untuk NetCDF
-
-Durasi : 6 jam
-
-Materi
-
-NetCDF
-
-xarray
-
-netCDF4
-
-Coordinate
-
-Dimension
-
-Variable
-
-Metadata
-
-Praktik
-
-Membaca
-
-```
-geo_em.d01.nc
-```
-
-Mengubah variabel
-
-Menulis NetCDF baru.
-
----
-
-# Modul 11. WRF-Hydro GIS Preparation
-
-Durasi : 12 jam
-
-Materi
-
-Domain
-
-DEM
-
-River
-
-Lake
-
-Projection
-
-Regridding
-
-Routing Grid
-
-High Resolution Grid
-
-Channel Grid
-
-Praktik
-
-Membuat
-
-```
-Fulldom_hires.nc
-```
-
----
-
-# Modul 12. WRF-Hydro Geogrid
-
-Durasi : 8 jam
-
-Materi
-
-geo_em
-
-Fulldom
-
-Hydro2dtbl
-
-Route_Link
-
-GWBUCKPARM
-
-LAKEPARM
-
-CHANNELGRID
-
-Praktik
-
-Mengecek semua file.
-
----
-
-# Modul 13. Quality Control
-
-Durasi : 4 jam
-
-Materi
-
-Visualisasi
-
-QGIS
-
-Python
-
-Validasi
-
-River
-
-DEM
-
-Projection
-
-Missing Data
-
-Praktik
-
-Debugging preprocessing.
-
----
-
-# Modul 14. Automation
-
-Durasi : 8 jam
-
-Materi
-
-Batch Processing
-
-QGIS Model Builder
-
-Python Automation
-
-Bash
-
-Workflow
-
-Praktik
-
-Otomatisasi preprocessing.
-
----
-
-# Modul 15. Mini Project
-
-Durasi : 16 jam
-
-Peserta memilih satu DAS.
-
-Target
-
-Mulai dari
-
-DEM
-
-↓
-
-Preprocessing
-
-↓
-
-Routing
-
-↓
-
-Fulldom
-
-↓
-
-Visualisasi
-
-↓
-
-Laporan
-
----
-
-# Modul 16. Integrasi dengan WRF
-
-Durasi : 4 jam
-
-Materi
+### Modul 12. Integrasi dengan WRF
+-memahami hubungan preprocessing dengan simulasi penuh.
 
 ```
 WPS
 ```
-
 ↓
-
 ```
 real.exe
 ```
-
 ↓
-
 ```
 wrf.exe
 ```
-
 ↓
-
 ```
 WRF-Hydro preprocessing
 ```
-
 ↓
-
 ```
 hydro.exe
 ```
-
 ↓
-
 Output
-
-Peserta memahami hubungan preprocessing dengan simulasi penuh.
-
----
 
 # Kompetensi Akhir
 
-Setelah mengikuti pelatihan, peserta mampu:
+mampu:
 
 1. Memahami konsep dasar GIS untuk pemodelan hidrologi.
 2. Mengoperasikan QGIS untuk pengolahan data raster dan vektor.
@@ -450,4 +137,4 @@ Setelah mengikuti pelatihan, peserta mampu:
 Bahwa alur **WPS → `real.exe` → `wrf.exe` → WRF-Hydro** di HPC, jadi lanjut, 
 * **Level 1 – GIS Foundation**: Modul 1–6 (konsep GIS, QGIS, analisis raster dan vektor).
 * **Level 2 – WRF-Hydro Preparation**: Modul 7–14 (persiapan data hidrologi, Python untuk GIS, NetCDF, dan preprocessing WRF-Hydro).
-* **Level 3 – Operational Workflow**: Modul 15–16  simulasi WRF-Hydro di Linux/HPC, sehingga peserta memahami alur lengkap dari data mentah hingga simulasi hidrologi.
+* **Level 3 – Operational Workflow**: Modul 15–16  simulasi WRF-Hydro di Linux/HPC, sehingga memahami alur lengkap dari data mentah hingga simulasi hidrologi.
