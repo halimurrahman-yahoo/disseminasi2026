@@ -27,7 +27,7 @@
    
    b. [Docker WRF-WPS Website](https://hub.docker.com/layers/dtcenter/wps_wrf/3.5.1/images/sha256-7d0e56f77c221eb46215cbcbebbb823d0e37bce0c9a7835093acdba712570909)
    
-5. [GIS dan QGIS](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/GIS/silabus_ringkas.md)
+5. [GIS dan QGIS](https://github.com/halimurrahman-yahoo/disseminasi2026/blob/main/MBK_M2026_WRFHydro_TelU/silabusWRF-Hydro.md)
 
 ### Tentang WRF-Hydro
 1. [work flow WRFHydro](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/tahapanWRF-Hydro.md](https://github.com/halimurrahman-yahoo/disseminasi2026/blob/main/MBK_M2026_WRFHydro_TelU/silabusWRF-Hydro.md)
