@@ -59,56 +59,11 @@ Peserta memahami seluruh data yang akan dibuat.
 
 ---
 
-# Modul 2. Dasar-Dasar GIS
+### Modul 2. Dasar-Dasar GIS
+-memahami konsep spasial yang diperlukan dalam WRF-Hydro.
 
-Durasi : 4 jam
-
-## Tujuan
-
-Peserta memahami konsep spasial yang diperlukan dalam WRF-Hydro.
-
-### Materi
-
-Raster
-
-* Pixel
-* Resolution
-* Extent
-* Cell size
-* NoData
-
-Vector
-
-* Point
-* Line
-* Polygon
-
-Coordinate System
-
-* Geographic
-* Projected
-* Datum
-* EPSG
-
-Operasi GIS
-
-* Clip
-* Merge
-* Reproject
-* Buffer
-* Dissolve
-
-Praktik
-
-Menggunakan data Indonesia.
-
----
-
-# Modul 3. Dasar QGIS
-
-Durasi : 6 jam
-
-## Materi
+### Modul 3. Dasar QGIS
+-memahami aplikasi GIS 
 
 Interface
 
@@ -136,109 +91,14 @@ Export
 * Shapefile
 * GeoPackage
 
-Praktik
+### Modul 4. Raster Analysis
+-memahami pengolahan DEM menjadi input hidrologi (DEM, Slope, Raster Calculator, Resampling, etc.)
 
-Membuat peta DAS.
+### Modul 5. Vector Analysis
+-memhami pengolahan pngolahan batas DAS (Editing, Topology, Field Calculator, Spatial Join, etc.)
 
----
-
-# Modul 4. Raster Analysis
-
-Durasi : 6 jam
-
-Materi
-
-DEM
-
-Slope
-
-Aspect
-
-Hillshade
-
-Raster Calculator
-
-Masking
-
-Resampling
-
-Nearest Neighbor
-
-Bilinear
-
-Cubic
-
-Praktik
-
-Mengolah DEM menjadi input hidrologi.
-
----
-
-# Modul 5. Vector Analysis
-
-Durasi : 5 jam
-
-Materi
-
-Editing
-
-Topology
-
-Field Calculator
-
-Spatial Join
-
-Intersection
-
-Union
-
-Dissolve
-
-Split
-
-Praktik
-
-Mengolah batas DAS.
-
----
-
-# Modul 6. Hydrologic GIS
-
-Durasi : 8 jam
-
-Materi
-
-Konsep
-
-Flow Direction
-
-Flow Accumulation
-
-Catchment
-
-Stream Network
-
-River Order
-
-Watershed
-
-Sink
-
-Fill
-
-Burn Stream
-
-TauDEM
-
-GRASS
-
-SAGA
-
-Praktik
-
-Menghasilkan jaringan sungai.
-
----
+### Modul 6. Hydrologic GIS
+-memahami pengolahan jaringan sungai (Flow Direction/Accumulation, Catchment, Stream Network, GRASS, etc.)
 
 # Modul 7. Data WRF-Hydro
 
