@@ -25,7 +25,7 @@
    
    a. [Docker WRF-Hydro/WPS Website](https://hub.docker.com/r/wrfhydro/wps)
    
-   b. [Docker WRF-Hydro/WPS Website](https://hub.docker.com/r/wrfhydro/wps)
+   b. [Docker WRF-WPS Website](https://hub.docker.com/layers/dtcenter/wps_wrf/3.5.1/images/sha256-7d0e56f77c221eb46215cbcbebbb823d0e37bce0c9a7835093acdba712570909)
    
 5. [GIS dan QGIS](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/GIS/silabus_ringkas.md)
 
