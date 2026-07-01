@@ -33,7 +33,7 @@
 #### Eksperimen-1: test docker system
 #### Eksperimen-2: real case 
 
-case-1: [hujan ekstrim Banjar negara 2016](); 
+case-1: [hujan ekstrim Banjar negara 19 Juni 2016](eksp%232.md); 
 
 case-2: [TC Cempaka 27 Nov 2017](eksp%232.md)
 
