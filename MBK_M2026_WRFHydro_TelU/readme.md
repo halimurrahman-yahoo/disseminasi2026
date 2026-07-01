@@ -35,7 +35,7 @@
 
 case-1: [hujan ekstrim Banjar negara 2016](); 
 
-case-2: [TC Cempaka 27 Nov 2017](https://github.com/halimurrahman-yahoo/disseminasi2026/tree/main/MBK_M2026_WRFHydro_TelU/eksp#2.md)
+case-2: [TC Cempaka 27 Nov 2017](eksp%232.md)
 
 
 ### Tentang WRF-Hydro
