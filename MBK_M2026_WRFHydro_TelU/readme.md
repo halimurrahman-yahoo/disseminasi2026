@@ -31,7 +31,7 @@
 
 ### Eksperimen
 #### Eksperimen-1: test docker system
-#### Eksperimen-2: real case 1: [hujan ekstrim Banjar negara 2016](); case-2: [TC Cempaka 27 Nov 2017]()
+#### Eksperimen-2: real case 1: [hujan ekstrim Banjar negara 2016](); case-2: [TC Cempaka 27 Nov 2017](eks#2.md)
 
 
 ### Tentang WRF-Hydro
