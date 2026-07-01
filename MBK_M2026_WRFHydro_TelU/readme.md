@@ -29,6 +29,11 @@
    
 5. [GIS dan QGIS](https://github.com/halimurrahman-yahoo/disseminasi2026/blob/main/MBK_M2026_WRFHydro_TelU/silabusWRF-Hydro.md)
 
+### Eksperimen
+#### Eksperimen-1: test docker system
+#### Eksperimen-2: real case 1: [hujan ekstrim Banjar negara 2016](); case-2: [TC Cempaka 27 Nov 2017]()
+
+
 ### Tentang WRF-Hydro
 1. [work flow WRFHydro](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/tahapanWRF-Hydro.md](https://github.com/halimurrahman-yahoo/disseminasi2026/blob/main/MBK_M2026_WRFHydro_TelU/silabusWRF-Hydro.md)
 2. []
