@@ -39,5 +39,5 @@ case-2: [TC Cempaka 27 Nov 2017](eksp%232.md)
 
 
 ### Tentang WRF-Hydro
-1. [work flow WRFHydro](https://github.com/halimurrahman-yahoo/DBR_AHE/blob/main/WRFHydro/tahapanWRF-Hydro.md](https://github.com/halimurrahman-yahoo/disseminasi2026/blob/main/MBK_M2026_WRFHydro_TelU/silabusWRF-Hydro.md)
+1. [work flow WRFHydro](tahapanWRF-Hydro.md)
 2. []
