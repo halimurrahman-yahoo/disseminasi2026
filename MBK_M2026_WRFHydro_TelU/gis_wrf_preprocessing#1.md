@@ -1,8 +1,8 @@
-@dhamar dir@WRFHydro chat@Menjalankan Docker di MacBook
+#Instalasi Docker WRF-Hydro
 
-[Step-1: menyiapkan exe wrfHydro. readme.md ini](readme.md)
+[Step-1: menyiapkan exe wrfHydro](gis_wrf_preprocessing#1.md)
 
-[Step-2: menyiapkan folder run](step_membangun_run.md)
+[Step-2: menyiapkan folder run](gis_wrf_preprocessing#2.md)
 
 ### steps
 1. do
