@@ -1,4 +1,4 @@
-Tahap **menyiapkan folder `run`** dengan menggunakan struktur yang rapi sehingga mudah dipindahkan ke HPC BRIN nantinya.
+Tahap **menyiapkan folder `run`** dengan menggunakan struktur yang rapi 
 
 ## 1. Masuk ke folder run
 
