@@ -1,8 +1,8 @@
 # Instalasi Docker WRF-Hydro
 
-[Step-1: menyiapkan exe wrfHydro](gis_wrf_preprocessing#1.md)
+[Step-1: menyiapkan exe wrfHydro](wrf_hydro_exe#1.md)
 
-[Step-2: menyiapkan folder run](gis_wrf_preprocessing#2.md)
+[Step-2: menyiapkan folder run](wrf_hydro_exe#2.md)
 
 ### steps
 1. do
