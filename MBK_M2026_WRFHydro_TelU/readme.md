@@ -37,6 +37,8 @@ case-1: [hujan ekstrim Banjar negara 19 Juni 2016](eksp%232.md);
 
 case-2: [TC Cempaka 27 Nov 2017](eksp%232.md)
 
+case-3: [TC Dahlia 2 Desember 2017](eksp%232.md)
+
 
 ### Tentang WRF-Hydro
 1. [work flow WRFHydro](tahapanWRF-Hydro.md)
