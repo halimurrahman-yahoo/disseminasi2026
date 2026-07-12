@@ -2,7 +2,7 @@
 
 [Step-1: menyiapkan exe wrfHydro](wrf_hydro_exe.md)
 
-[Step-2: menyiapkan folder run](wrf_hydro_exe#2.md)
+[Step-2: menyiapkan folder run](wrf_hydro_run.md)
 
 ### steps
 1. do
