@@ -40,4 +40,5 @@ case-2: [TC Cempaka 27 Nov 2017](eksp%232.md)
 
 ### Tentang WRF-Hydro
 1. [work flow WRFHydro](tahapanWRF-Hydro.md)
-2. []
+2. [Menyiapkan wrf-hydro.exe](wrf_hydro_exe.md)
+3. [Menjalankan wrf-hydro](wrf_hydro_run.md)
