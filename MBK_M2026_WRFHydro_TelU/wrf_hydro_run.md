@@ -174,3 +174,4 @@ jalankan **di Mac** (bukan di dalam container, jika file ZIP ada di host):
 unzip -l SAL_routing.zip
 ```
 
+lanjut ke kompilasi [https://github.com/NCAR/wrf_hydro_gis_preprocessor](https://github.com/NCAR/wrf_hydro_gis_preprocessor)
