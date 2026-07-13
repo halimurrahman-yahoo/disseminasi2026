@@ -79,8 +79,10 @@ run/
 │   ├── Route_Link.nc
 │   ├── Fulldom_hires.nc
 │   ├── GWBUCKPARM.nc
+│   ├── GWBASINS.nc
+│   ├── geo_em.d01.nc
 │   ├── soil_properties.nc
-│   └── ...
+│   └── wrfinput_d01
 │
 ├── FORCING/
 │
