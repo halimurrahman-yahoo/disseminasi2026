@@ -117,8 +117,7 @@ cd /home/docker/work
 mkdir build
 cd build
 
-cmake ~/work/src/wrf-hydro-training/wrf_hydro_nwm_public/trunk \
-    -DWRF_HYDRO=ON
+cmake ~/work/src/wrf-hydro-training/wrf_hydro_nwm_public/trunk -DWRF_HYDRO=ON
 ```
 
 Lalu:
