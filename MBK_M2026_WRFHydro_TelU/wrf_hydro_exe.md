@@ -62,7 +62,7 @@ Mari kita lihat apakah source code tersebut memang siap dikompilasi.
 Jalankan:
 
 ```bash
-cd ~/wrf-hydro-training/wrf_hydro_nwm_public/trunk
+cd ~/work/src/wrf-hydro-training/wrf_hydro_nwm_public/trunk
 
 ls
 ```
@@ -117,7 +117,7 @@ cd /home/docker/work
 mkdir build
 cd build
 
-cmake ~/wrf-hydro-training/wrf_hydro_nwm_public/trunk \
+cmake ~/work/src/wrf-hydro-training/wrf_hydro_nwm_public/trunk \
     -DWRF_HYDRO=ON
 ```
 
