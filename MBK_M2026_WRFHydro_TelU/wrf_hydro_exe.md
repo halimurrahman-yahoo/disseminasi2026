@@ -231,6 +231,9 @@ Sebelum menjalankan CMake, kita perlu mengetahui lokasi file `CMakeLists.txt` pa
 ```bash
 find /home/docker/wrf-hydro-training/wrf_hydro_nwm_public -name CMakeLists.txt
 ```
+```bash
+./work/src/wrf-hydro-training/wrf_hydro_nwm_public/trunk/NDHMS/CMakeLists.txt
+```
 
 ### 3. Setelah menemukan `CMakeLists.txt`
 
@@ -239,13 +242,15 @@ CMakeLists.txt di
 ```text
 /home/docker/wrf-hydro-training/wrf_hydro_nwm_public/trunk/NDHMS/CMakeLists.txt
 ```
-
+```text
+/home/docker/work/src/wrf-hydro-training/wrf_hydro_nwm_public/trunk/NDHMS/CMakeLists.txt
+```
 maka konfigurasi build menjadi:
 
 ```bash
 cd /home/docker/work/build
 
-cmake -LAH /home/docker/wrf-hydro-training/wrf_hydro_nwm_public/trunk/NDHMS
+cmake -LAH /home/docker/work/src/wrf-hydro-training/wrf_hydro_nwm_public/trunk/NDHMS
 ```
 ### 4. Kompilasi
 
