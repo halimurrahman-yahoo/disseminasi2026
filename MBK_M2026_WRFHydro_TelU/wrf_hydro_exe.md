@@ -132,7 +132,7 @@ Dengan cara ini, hasil kompilasi akan tersimpan di:
 /Volumes/MyPassport/docker_WRF-Hydro_rc1/build
 ```
 
-sehingga tetap ada walaupun container dihapus.
+sehingga tetap ada walaupun container dihapus. Ingat jangan menjalan docker run
 
 ---
 
