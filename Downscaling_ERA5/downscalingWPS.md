@@ -82,6 +82,8 @@ Pengenalan format
 
 # [Sesi 3. Menentukan Domain Resolusi 250 m](https://jiririchter.github.io/WRFDomainWizard/)
 
+Bahan: [namelist.wps] (https://drive.google.com/file/d/1kvnnZDDEoPiIxFyd-siYCJ3moZfOpVzm/view?usp=drive_link)
+
 **Durasi:** 90 menit
 
 ## Materi
