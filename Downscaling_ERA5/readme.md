@@ -22,6 +22,6 @@ B. Apa docker?
 
 # Materi Training
 
-## [A. Downscaling Data ERA5 Menggunakan WPS hingga tahap Metgrid (Resolusi Domain 25m)](downscalingWRF.md)
+## [A. Downscaling Data ERA5 Menggunakan WPS hingga tahap Metgrid (Resolusi Domain 25m)](https://github.com/halimurrahman-yahoo/disseminasi2026/blob/main/Downscaling_ERA5/downscalingWPS.md)
 
-## [B. Downscaling Data ERA5 full menggunakan WRF (Resolusi Domain 250m](downscalingWRF.md)
+## [B. Downscaling Data ERA5 full menggunakan WRF (Resolusi Domain 250m]( menyusul ..)
