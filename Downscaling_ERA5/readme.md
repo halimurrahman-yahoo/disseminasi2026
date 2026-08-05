@@ -7,15 +7,11 @@
 ### Target: 
 
 ### Materi Dasar
-A. [Bagaimana WRF terkait Downscalling?](downscalingWPS.md)
+[A. Bagaimana WRF terkait Downscalling?](downscalingWPS.md)
 
-B. Apa docker?
+[B. Apa Docker](docker01.md)
 
-1. [Docker](docker01.md)
-
-2. Dockker WPS/WRF
-   
-[Docker WRF-WPS Website](https://hub.docker.com/layers/dtcenter/wps_wrf/3.5.1/images/sha256-7d0e56f77c221eb46215cbcbebbb823d0e37bce0c9a7835093acdba712570909)
+[C. Dockker WPS/WRF](https://hub.docker.com/layers/dtcenter/wps_wrf/3.5.1/images/sha256-7d0e56f77c221eb46215cbcbebbb823d0e37bce0c9a7835093acdba712570909)
    
 ---
 
