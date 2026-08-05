@@ -1,0 +1,40 @@
+```
+&share
+ wrf_core = 'ARW',
+ max_dom = 3,
+ start_date       = '2015-07-30_00:00:00','2015-07-30_00:00:00','2015-07-30_00:00:00',
+ end_date         = '2015-07-31_00:00:00','2015-07-31_00:00:00','2015-07-31_00:00:00',
+ interval_seconds = 3600
+ io_form_geogrid  = 2
+ debug_level      = 0
+/
+
+&geogrid
+ parent_id            = 1, 1, 2
+ parent_grid_ratio    = 1, 3, 3
+ i_parent_start       = 1, 56, 50
+ j_parent_start       = 1, 21, 26
+ e_we                 = 149, 121, 52
+ e_sn                 = 61, 64, 43
+ geog_data_res = 'default','default','default',
+ dx = 30000,
+ dy = 30000,
+
+ map_proj          = 'mercator'
+ ref_lat           = -7.65
+ ref_lon           = 108.85
+ truelat1          = -7.65
+ stand_lon         = 108.85
+ geog_data_path = '/mgpfs/home/hali001/_scratch/DATA/WPS_GEOG'
+/
+
+&ungrib
+ out_format = 'WPS',
+ prefix = 'ERA5_sfc',
+/
+
+&metgrid
+ fg_name              = 'ERA5_p', 'ERA5_sfc',
+ io_form_metgrid      = 2
+/
+```
