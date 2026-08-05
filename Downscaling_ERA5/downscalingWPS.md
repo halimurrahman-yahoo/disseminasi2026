@@ -86,7 +86,7 @@ Pengenalan format
 
 ## Materi
 
-### Menentukan lokasi simulasi
+### [Menentukan lokasi simulasi](https://jiririchter.github.io/WRFDomainWizard/)
 
 * koordinat pusat domain
 * luas area
