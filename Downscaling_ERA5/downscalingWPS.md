@@ -80,13 +80,13 @@ Pengenalan format
 
 ---
 
-# Sesi 3. Menentukan Domain Resolusi 250 m
+# [Sesi 3. Menentukan Domain Resolusi 250 m](https://jiririchter.github.io/WRFDomainWizard/)
 
 **Durasi:** 90 menit
 
 ## Materi
 
-### [Menentukan lokasi simulasi](https://jiririchter.github.io/WRFDomainWizard/)
+### Menentukan lokasi simulasi
 
 * koordinat pusat domain
 * luas area
