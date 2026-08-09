@@ -14,15 +14,34 @@ docker pull dtcenter/wps_wrf:latest
 
 Jalankan container dengan nama **wrf-hydro-training**.
 
+sebagai root,
+
 ```bash
 sudo docker run --name wrf-hydro-training -p 8889:8888 -it dtcenter/wps_wrf:latest /bin/bash
+```
+
+sebagai docker,
+
+```bash
+docker run --name wrf-hydro-training -p 8889:8888 -it dtcenter/wps_wrf:latest /bin/bash
 ```
 
 ---
 
 ## 3. Masuk Kembali ke Container
 
-Apabila container sudah berjalan dan ingin masuk kembali ke terminal root:
+Apabila container sudah berjalan dan ingin masuk kembali ke terminal, 
+
+sebagai docker,
+
+
+```bash
+docker exec -it wrf-hydro-training /bin/bash
+```
+
+---
+
+sebagai root:
 
 ```bash
 sudo docker exec -it d37a060ff1ef /bin/bash
