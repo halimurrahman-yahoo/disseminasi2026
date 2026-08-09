@@ -21,7 +21,7 @@ Pada akhir pelatihan, peserta diharapkan mampu:
 
 [B. Apa Docker](support/docker01.md)
 
-[C. Dockker WPS/WRF](https://hub.docker.com/layers/dtcenter/wps_wrf/3.5.1/images/sha256-7d0e56f77c221eb46215cbcbebbb823d0e37bce0c9a7835093acdba712570909)
+[C. Dockker WPS/WRF](installDocker_WPS_WRF.md)
    
 ---
 
