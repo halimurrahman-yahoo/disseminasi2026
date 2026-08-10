@@ -20,7 +20,7 @@ sudo docker run --name wrf-hydro-training -p 8889:8888 -it dtcenter/wps_wrf:late
 ```
 
 ```
-docker run --name wrf-hydro-training -v C:\TMP\DATA:/comsoftware/wrf/WPS-4.3 -p 8889:8888 -it dtcenter/wps_wrf:latest /bin/bash   
+docker run --name wrf-hydro-training -v C:\TMP\DATA:/comsoftware/wrf/DATA -p 8889:8888 -it dtcenter/wps_wrf:latest /bin/bash   
 ```
 ---
 
