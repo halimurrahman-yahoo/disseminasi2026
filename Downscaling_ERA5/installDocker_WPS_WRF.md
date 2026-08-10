@@ -19,6 +19,9 @@ Jalankan container dengan nama **wrf-hydro-training**.
 sudo docker run --name wrf-hydro-training -p 8889:8888 -it dtcenter/wps_wrf:latest /bin/bash
 ```
 
+```
+docker run -it --name wrf-hydro-training -v C:\TMP\DATA:/home/docker/WRF -p 8889:8888 dtcenter/wps_wrf:latest
+```
 ---
 
 ## 3. Masuk Kembali ke Container
