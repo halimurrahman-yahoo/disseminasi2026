@@ -24,6 +24,12 @@ docker run --name wrf-hydro-training -v C:\TMP\DATA:/comsoftware/wrf/DATA -p 888
 ```
 ---
 
+## Menghentikan image
+
+```
+docker rm wrf-hydro-training 
+```
+
 ## 3. Masuk Kembali ke Container
 
 Apabila container sudah berjalan dan ingin masuk kembali ke terminal, 
