@@ -547,5 +547,3 @@ Animasi akan menampilkan:
 * Pergerakan hujan pada Domain 1, Domain 2, dan Domain 3.
 * Skala intensitas hujan 0–20 mm/jam.
 * Seluruh hujan dengan nilai > 0 mm tetap ditampilkan.
-
-Jika dokumentasi ini akan diunggah ke GitHub, saya juga bisa merapikannya lagi dengan penomoran otomatis, daftar isi (Table of Contents), blok **Tips**, **Warning**, dan **Troubleshooting** menggunakan format Markdown GitHub agar tampil lebih profesional.
