@@ -20,7 +20,7 @@ Disain simulasi terdiri atas enam eksperimen WRF:
 5. WEAK-ERW — weakened ERW circulation anomaly; **<< Oleh Zazi**
 6. WEAK-CS-ERW — combined cold-surge and ERW weakening experiment.
 
-7. Input data simulasi WRF (met_em*) **<< oleh Prof. Asif**
+7. Input data simulasi WRF No 3,4,5,dan 6 (met_em*) **<< oleh Prof. Asif**
 
 Lebih lanjut rancangan disain pelajari domuken simulasi >> [Dokumen Disain Simulasi](skema_senyar.pdf)
 
