@@ -28,15 +28,19 @@ Lebih lanjut rancangan disain pelajari domuken simulasi >> [Dokumen Disain Simul
 
 <img width="1351" height="615" alt="TC_Senyar" src="https://github.com/user-attachments/assets/8ecc684f-38b6-445e-b67f-b4e8222c4469" />
 
+
+
 ### Penyesuaian namelist:
 
 [1. Download namelist.wps.p](namelist.wps.p)
 
-[2. Download namelist.input.fisrt.run](namelist_firstrun.input)
+[2. Download namelist.input.fisrt.run](namelist_firstrun.input). *(link ini sama dengan yang di bagian akhir.)*
 
-[3. Download namelist.input.next.run](namelist_nextrun.input)
+[3. Download namelist.input.next.run](namelist_nextrun.input). *(link ini sama dengan yang di bagian akhir)*
 
 ***Untuk Download no 2 dan 3, sebelum digunakan running WRF jangan lupa rename file hasil download menjadi namelist.input !!!***
+
+
 
 ### Penjelasan
 
@@ -77,17 +81,21 @@ restart = .true.,
 
 ---
 
+
+
 ## Versi untuk **initial/first run**, dan akan membuat `wrfrst` setiap 12 jam,
 
-[Download namelist_firstrun.input](namelist_firstrun.input)
+[Download namelist_firstrun.input](namelist_firstrun.input) *(link ini sama dengan yang di bagian awal.)*
 
 ***Jangan lupa rename file hasil download menjadi namelist.input !!!***
 
 
 Untuk running operasional pertama, gunakan **`namelist_firstrun.input`**. Setelah restart dari checkpoint 12-jam, gunakan versi `namelist.input.updated` dengan `restart=.true.`.
 
+
+
 ## Versi untuk pasca "STOP" atau running terputus
 
-[Download namelist_nextrun.input](namelist_nextrun.input)
+[Download namelist_nextrun.input](namelist_nextrun.input) *(link ini sama dengan yang di bagian awal.)*
 
 ***Jangan lupa rename file hasil download menjadi namelist.input !!!***
