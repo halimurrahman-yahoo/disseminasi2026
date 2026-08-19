@@ -13,12 +13,14 @@ Skema simulasi akan dilakukan 4 (empat) simulasi, yaitu Control Run, modifikasi 
 
 
 Disain simulasi terdiri atas enam eksperimen WRF:
-1. CTRL — Control Run;
-2. FLAT-TOPO — reduced/removed Barisan topography;
-3. WEAK-CS — weakened cold-surge anomaly;
-4. RED-MJO-Q — reduced MJO-associated moisture anomaly;
-5. WEAK-ERW — weakened ERW circulation anomaly;
+1. CTRL — Control Run;  << oleh Faiz
+2. FLAT-TOPO — reduced/removed Barisan topography;  << oleh Halim
+3. WEAK-CS — weakened cold-surge anomaly; << oleh Anissa
+4. RED-MJO-Q — reduced MJO-associated moisture anomaly; << oleh 
+5. WEAK-ERW — weakened ERW circulation anomaly; << Oleh Zazi
 6. WEAK-CS-ERW — combined cold-surge and ERW weakening experiment.
+
+7. Input data simulasi WRF (met_em*) << oleh Prof. Asif
 
 Lebih lanjut rancangan disain pelajari domuken simulasi >> [Dokumen Disain Simulasi](skema_senyar.pdf)
 
