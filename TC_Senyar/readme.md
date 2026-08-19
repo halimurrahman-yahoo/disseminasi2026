@@ -3,9 +3,13 @@
 ## 1. Disain Simulasi
 
 ### Latar belakang dan tujuan
-Studi Siklon Tropis Senyar menganalisis kejadian hujan ekstrem di Sumatra bagian utara pada 25–26 November 2025 dan mengusulkan keterlibatan beberapa komponen
-atmosfer, terutama Equatorial Rossby Wave (ERW), cold surge, anomali kelembapan yang berasosiasi dengan MJO, serta interaksi sirkulasi dengan Pegunungan Barisan.
-Skema awal mengusulkan empat simulasi, yaitu Control Run, modifikasi topografi, pelemahan cold surge, dan pengurangan kelembapan.
+Studi Siklon Tropis Senyar ([TC Senyar](https://id.wikipedia.org/wiki/Siklon_Senyar)) menganalisis kejadian hujan ekstrem di Sumatra bagian utara pada 25–26 November 2025 dan mengusulkan keterlibatan beberapa komponen atmosfer, terutama Equatorial Rossby Wave (ERW), cold surge, anomali kelembapan yang berasosiasi dengan MJO, serta interaksi sirkulasi dengan Pegunungan Barisan.
+
+
+<img width="330" height="204" alt="Senyar_2025_path" src="https://github.com/user-attachments/assets/a7c44fd7-29e7-4540-a56c-dcf2aa8e41c4" />
+
+
+Skema simulasi akan dilakukan 4 (empat) simulasi, yaitu Control Run, modifikasi topografi, pelemahan cold surge, dan pengurangan kelembapan.
 
 
 Disain simulasi terdiri atas enam eksperimen WRF:
