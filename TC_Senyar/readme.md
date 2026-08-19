@@ -32,7 +32,7 @@ Lebih lanjut rancangan disain pelajari domuken simulasi >> [Dokumen Disain Simul
 
 [3. Download namelist.input.next.run](namelist_nextrun.input)
 
-***Jangan lupa rename file hasil download menjadi namelist.input !!!***
+***Untuk Download no 2 dan 3, sebelum digunakan running WRF jangan lupa rename file hasil download menjadi namelist.input !!!***
 
 ### Penjelasan
 
