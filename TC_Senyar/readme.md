@@ -171,3 +171,24 @@ Pada laptop kedua:
    ```text
    /home/mobaxterm/.ssh/asif001_hpc_brin_2026
    ```
+
+### 7. aAlternatif session dengan config
+```
+vi ~/.ssh/config
+``
+
+isi dengan text berikut,
+
+```
+Host hpca
+    HostName login2.hpc.brin.go.id
+    User asif001
+    ServerAliveInterval 30
+    IdentityFile ~/.ssh/asif001_hpc_brin_2026
+```
+
+Simpan dan jalankann di terminal moba
+
+```
+ssh hpca
+```
