@@ -104,7 +104,7 @@ Untuk running operasional pertama, gunakan **`namelist_firstrun.input`**. Setela
 
 ---
 
-## Akses HPC - BRIN dengan akun asif001
+# Akses HPC - BRIN dengan akun asif001
 
 
 ### 1. Install moba/xterm
