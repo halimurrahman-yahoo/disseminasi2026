@@ -173,9 +173,10 @@ Pada laptop kedua:
    ```
 
 ### 7. aAlternatif session dengan config
+
 ```
 vi ~/.ssh/config
-``
+```
 
 isi dengan text berikut,
 
