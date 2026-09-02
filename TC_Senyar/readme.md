@@ -102,7 +102,7 @@ Untuk running operasional pertama, gunakan **`namelist_firstrun.input`**. Setela
 
 ***Jangan lupa rename file hasil download menjadi namelist.input !!!***
 
-
+---
 
 ## Akses HPC - BRIN dengan akun asif001
 
