@@ -172,7 +172,7 @@ Pada laptop kedua:
    /home/mobaxterm/.ssh/asif001_hpc_brin_2026
    ```
 
-### 7. aAlternatif session dengan config
+### 7. Alternatif session dengan config
 
 ```
 vi ~/.ssh/config
