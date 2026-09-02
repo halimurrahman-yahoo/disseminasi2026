@@ -101,3 +101,69 @@ Untuk running operasional pertama, gunakan **`namelist_firstrun.input`**. Setela
 [Download namelist_nextrun.input](namelist_nextrun.input) *(link ini sama dengan yang di bagian awal.)*
 
 ***Jangan lupa rename file hasil download menjadi namelist.input !!!***
+
+
+
+## Akses HPC - BRIN dengan akun asif001
+
+
+### 1. Install moba/xterm
+
+buka terminal MobaXterm:
+
+
+### 3. Salin key ke laptop 
+
+Di laptop masing-masing, lalu buka terminal MobaXterm:
+
+```bash
+mkdir -p ~/.ssh
+chmod 700 ~/.ssh
+```
+
+Misalnya hasil copy di `Downloads`, jalankan:
+
+```bash
+cp /drives/Downloads/asif001_hpc_brin_2026 ~/.ssh/
+cp /drives/Downloads/asif001_hpc_brin_2026.pub ~/.ssh/
+```
+
+Atur permission:
+
+```bash
+chmod 600 ~/.ssh/asif001_hpc_brin_2026
+chmod 644 ~/.ssh/asif001_hpc_brin_2026.pub
+```
+
+### 4. Verifikasi fingerprint di laptop kedua
+
+```bash
+ssh-keygen -lf ~/.ssh/asif001_hpc_brin_2026.pub
+```
+
+Fingerprint-nya harus sama dengan isi di atas dan public key yang telah dipasang admin.
+
+### 5. Coba login
+
+```bash
+ssh -o IdentitiesOnly=yes \
+-i ~/.ssh/asif001_hpc_brin_2026 \
+asif001@login2.hpc.brin.go.id
+```
+
+Jika private key memiliki passphrase, masukkan passphrase tersebut.
+
+### 6. Atur session MobaXterm
+
+Pada laptop kedua:
+
+1. Pilih **Session → SSH**.
+2. Remote host: `login2.hpc.brin.go.id`.
+3. Username: `asif001`.
+4. Buka **Advanced SSH settings**.
+5. Centang **Use private key**.
+6. Pilih:
+
+   ```text
+   /home/mobaxterm/.ssh/asif001_hpc_brin_2026
+   ```
