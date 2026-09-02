@@ -114,7 +114,7 @@ buka terminal MobaXterm:
 
 ### 3. Salin key ke laptop 
 
-2 file key di folder TC_Senyar/asifxx dan asifxx.pub
+2 file keys asifxx dan asifxx.pub di folder TC_Senyar/
 
 Download 2 file ini ke local.
 
