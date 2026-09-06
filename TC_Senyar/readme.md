@@ -193,3 +193,61 @@ Simpan dan jalankann di terminal moba
 ```
 ssh hpca
 ```
+---
+
+# Jalankan WPS dan WRF di HPC - BRIN dengan akun asif001
+
+Seperti pembagian tugas, didefinisikan DIR_masing-masing adalah 
+
+RED-MJO-Q  
+
+WEAK-CS  
+
+WEAK-CS-ERW  
+
+WEAK-ERW  
+
+WPS_FLAT-TOPO  
+
+WRF_TC_Senyar
+
+
+### 1. Running WPS
+
+Setelah ssh hpca, masuk ke direktory /home/asif001/WPS/<DIR_masing-masing>
+
+```
+cp namelist.wps.ori namelist.wps
+cp namelist.wps.p.ori namelist.wps.p
+```
+
+jalankan WPS
+```
+bash run_real_exe.sh
+```
+
+### 2. Running WRF
+
+Setelah ssh hpca, masuk ke direktory /home/asif001/WPS/<DIR_masing-masing>
+
+
+```
+cp namelist.input.TC_Senyar namelist.input
+```
+
+link met_em* di folder masing-masing
+
+```
+ln -s xxxxx .
+```
+
+
+* Jalankan WRF *
+
+```
+bash run_wrf_exe.sh
+```
+
+
+
+
