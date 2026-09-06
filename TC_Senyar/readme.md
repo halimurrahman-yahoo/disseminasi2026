@@ -46,7 +46,7 @@ Lebih lanjut rancangan disain pelajari domuken simulasi >> [Dokumen Disain Simul
 
 ### Penjelasan
 
-* `num_metgrid_levels = 61`
+* `num_metgrid_levels = 38`
 * `cu_physics = 2, 0`
 
   * D01 10 km: BMJ
